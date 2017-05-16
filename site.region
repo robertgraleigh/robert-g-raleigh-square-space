@@ -15,9 +15,10 @@
       <header class="header">
         <h1 class="site-title">
           <a href="/">
-            Developer Platform Beginner Tutorial
+            Robert G. Raleigh
           </a>
         </h1>
+				<h2 class="site-tagline">Using empathy for project success</h2>
       </header>
 
       <main class="content">
