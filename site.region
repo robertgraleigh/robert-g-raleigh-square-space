@@ -27,6 +27,17 @@
         </div>
       </main>
 
+			<section id="about-us">
+				<div>
+					<h3 class="" data-content-field="site-tagline">
+						{website.siteTagline}
+					</h3>
+				</div>
+				<div class="about-description" data-content-field="site-description">
+					{website.siteDescription}
+				</div>
+			</section>
+
 			<footer class="site-footer">
 				<h3 class="site-title" data-content-field="site-title">
 					<a href="/">
