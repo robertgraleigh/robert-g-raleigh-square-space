@@ -1,21 +1,13 @@
-<!doctype html>
-<html>
 
-  <body>
+	<div class="container">
 
-		<squarespace:navigation navigationId="contactNav" template="contact-nav" />
+  	<main class="content">
+			<section id="page" role="main" data-content-field="main-content">
+				{squarespace.main-content}
+			</section>
+    </main>
 
-		<squarespace:navigation navigationId="primaryNav" template="primary-nav" />
-
-    <div class="container">
-
-      <main class="content">
-				<section id="page" role="main" data-content-field="main-content">
-					{squarespace.main-content}
-				</section>
-      </main>
-
-			<squarespace:navigation navigationId="secondaryNav" template="secondary-nav" />
+		<squarespace:navigation navigationId="secondaryNav" template="secondary-nav" />
 
 			<section class="about-us">
 				<div>
@@ -23,15 +15,11 @@
 						{website.siteTagline}
 					</h3>
 				</div>
+
 				<div class="about-description" data-content-field="site-description">
 					{website.siteDescription}
 				</div>
+
 			</section>
 
-    </div>
-
-    <!--Injection point for tracking scripts and user content from the code injection tab.-->
-    {squarespace-footers}
-
-  </body>
-</html>
+		</div>
