@@ -32,7 +32,7 @@
 				</section>
       </main>
 
-			<squarespace:navigation navigationId="secondaryyNav" template="secondary-nav" />
+			<squarespace:navigation navigationId="secondaryNav" template="secondary-nav" />
 
 			<section class="about-us">
 				<div>
