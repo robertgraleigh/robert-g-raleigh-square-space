@@ -10,7 +10,9 @@
 
   <body>
 
-		<squarespace:navigation navigationId="primaryNav" template="navigation" />
+		<squarespace:navigation navigationId="contactNav" template="contact-nav" />
+
+		<squarespace:navigation navigationId="primaryNav" template="primary-nav" />
 
     <div class="container">
 
