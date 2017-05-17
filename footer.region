@@ -1,0 +1,10 @@
+<footer class="site-footer">
+	<h3 class="site-title" data-content-field="site-title">
+		<a href="/">
+			{website.siteTitle}
+		</a>
+	</h3>
+	<p class="copyright-notice">
+		Copyright &copy; <span class="copyright-year">2017</span> All rights reserved. <span class="copyright-company">Man With Attache, LLC.</span>
+	</p>
+</footer>
