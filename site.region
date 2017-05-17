@@ -32,9 +32,11 @@
 				</section>
       </main>
 
-			<section id="about-us">
+			<squarespace:navigation navigationId="secondaryyNav" template="secondary-nav" />
+
+			<section class="about-us">
 				<div>
-					<h3 class="" data-content-field="site-tagline">
+					<h3 class="site-tagline" data-content-field="site-tagline">
 						{website.siteTagline}
 					</h3>
 				</div>
