@@ -10,6 +10,8 @@
 
   <body>
 
+		<squarespace:navigation navigationId="primaryNav" template="navigation" />
+
     <div class="container">
 
       <header class="header">
