@@ -51,6 +51,26 @@
 							"title": "Contact Robert"
 						}
 					]
+				},
+				{
+					"title": "Projects",
+					"items": [
+						{
+							"title": "Projects Header"
+						},
+						{
+							"title": "Project One"
+						},
+						{
+							"title": "Project Two"
+						},
+						{
+							"title": "Project Three"
+						},
+						{
+							"title": "Project Four"
+						}
+					]
 				}
 			]
 		}
