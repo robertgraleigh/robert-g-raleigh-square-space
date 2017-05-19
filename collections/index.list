@@ -1,6 +1,6 @@
 {
 	"collection": [
-		"title": "Main Index",
+		"title": "Index",
 		"collections": [
 			{
 				"title: "About",
@@ -50,7 +50,7 @@
 						"title": "Contact Robert"
 					}
 				]
-			},
+			}
 		]
 	]
 }
